@@ -1,0 +1,31 @@
+NAMESPACE       NAME                     READY   STATUS             RESTARTS         AGE
+a-nabixojayev   busybox                  0/1     CrashLoopBackOff   5 (19s ago)      3m29s
+a-nabixojayev   hr-app-db6b5548c-fk6jt   1/1     Running            0                7m43s
+a-nabixojayev   nginx1                   1/1     Running            0                37m
+a-nabixojayev   nginx2                   1/1     Running            0                36m
+a-yoldoshov     nginx1                   1/1     Running            0                32m
+a-yoldoshov     nginx2                   1/1     Running            0                32m
+d-djuraev       nginx1                   1/1     Running            0                7m17s
+d-djuraev       nginx2                   1/1     Running            0                6m31s
+f-absoatov      nginx1                   1/1     Running            0                21m
+f-absoatov      nginx2                   1/1     Running            0                21m
+f-sadatov       nginx1                   1/1     Running            0                37m
+f-sadatov       nginx2                   1/1     Running            0                34m
+i-abdullayev    nginx1                   1/1     Running            0                35m
+i-abdullayev    nginx2                   1/1     Running            0                34m
+j-jumanazarov   nginx1                   1/1     Running            0                22m
+j-jumanazarov   nginx2                   1/1     Running            0                22m
+j-turdiev       nginx1                   1/1     Running            0                2m19s
+j-turdiev       nginx2                   1/1     Running            0                2m19s
+m-shukurjonov   nginx1                   1/1     Running            0                43m
+m-shukurjonov   nginx2                   1/1     Running            0                39m
+o-toshev        nginx1                   1/1     Running            0                43m
+o-toshev        nginx2                   1/1     Running            0                43m
+r-shokirov      nginx1                   1/1     Running            0                24m
+r-shokirov      nginx2                   1/1     Running            0                19m
+x-sagatov       nginx1                   1/1     Running            0                33m
+x-sagatov       nginx2                   1/1     Running            0                33m
+x-umarov        nginx1                   0/1     CrashLoopBackOff   15 (3m11s ago)   55m
+x-umarov        nginx2                   0/1     CrashLoopBackOff   15 (2m28s ago)   54m
+z-abduvohidov   nginx1                   1/1     Running            0                14m
+z-abduvohidov   nginx2                   1/1     Running            0                13m
