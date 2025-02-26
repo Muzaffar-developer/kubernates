@@ -1,0 +1,20 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  creationTimestamp: null
+  labels:
+    run: nginx2
+    project: practice
+    author: muzaffar
+  name: nginx2
+  namespace: m-shukurjonov
+spec:
+  containers:
+  - image: nginx:latest
+    name: nginx2
+    ports:
+    - containerPort: 80
+    resources: {}
+  dnsPolicy: ClusterFirst
+  restartPolicy: Always
+status: {}
