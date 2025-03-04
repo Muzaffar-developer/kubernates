@@ -1,0 +1,1 @@
+{"domain":"37.27.12.106:30781","endpoint":"/check-ingress","full_path:":"37.27.12.106:30781/check-ingress"}

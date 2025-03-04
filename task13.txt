@@ -1,0 +1,3 @@
+NAME                 ENDPOINTS                               AGE
+flask-app-deploy     10.233.66.142:5000,10.233.68.182:5000   13m
+flask-app-nodeport   10.233.66.142:8000,10.233.68.182:8000   33h
